@@ -1,0 +1,9 @@
+{
+  "name": "webmcp-extension",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Chromium browser extension scaffold for WebMCP.",
+  "scripts": {
+    "check": "node --check background.js"
+  }
+}

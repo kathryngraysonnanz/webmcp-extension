@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "WebMCP",
+  "version": "0.1.0",
+  "description": "A Chromium browser extension scaffold for WebMCP.",
+  "action": {
+    "default_title": "WebMCP",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
