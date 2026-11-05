@@ -25,6 +25,3 @@ script.
 With Node.js and npm installed, run `npm run check` to check JavaScript syntax.
 To smoke-test in Chromium, confirm that the extension loads without errors and
 the toolbar popup displays the WebMCP heading and ready message.
-
-The scaffold requests no permissions and does not yet implement WebMCP
-functionality.
